@@ -75,7 +75,7 @@ flowchart LR
         Stores --> Api["Api<br/>endpoints.ts"]
         Api --> Cliente["axios + interceptors<br/>bearer · refresh · X-Request-Id"]
     end
-    Cliente -->|modo API| SOA["challenge-SOA<br/>Spring Boot · /v1/*"]
+    Cliente -->|modo API| SOA["Sprint3-SOA<br/>Spring Boot · /v1/*"]
     Cliente -->|modo demo| Demo["adapter demo<br/>src/demo/servidor.ts"]
     Stores --> Secure[("SecureStore<br/>tokens")]
     Stores --> Async[("AsyncStorage<br/>cache · config")]
@@ -122,12 +122,12 @@ src/
 │   ├── sessao.ts · storage.ts · jwt.ts · notificacoes.ts · formato.ts
 ├── store/                    auth, leads, config (Zustand)
 ├── theme/                    tokens e useTema
-└── types/api.ts              contrato do challenge-SOA
+└── types/api.ts              contrato do Sprint3-SOA
 ```
 
 ## API consumida
 
-Backend: [challenge-SOA](https://github.com/Lynnbrosa/challenge-SOA) (Java 21, Spring Boot 3, JWT HS256).
+Backend: [Sprint3-SOA](https://github.com/Lynnbrosa/Sprint3-SOA) (Java 21, Spring Boot 3, JWT HS256).
 
 | Método | Rota | Uso no app |
 |---|---|---|
@@ -169,9 +169,11 @@ Para apontar para a API desde o build, copie `.env.example` para `.env` e preenc
 Backend local:
 
 ```bash
-git clone https://github.com/Lynnbrosa/challenge-SOA
-cd challenge-SOA && mvn spring-boot:run   # PostgreSQL local, porta 5000
+git clone https://github.com/Lynnbrosa/Sprint3-SOA
+cd Sprint3-SOA && docker compose up --build   # API + PostgreSQL, porta 5000
 ```
+
+Sem Docker, o `./mvnw spring-boot:run` também sobe a API com um PostgreSQL local (ver o README do Sprint3-SOA).
 
 ## Gerar o APK
 
@@ -204,7 +206,7 @@ npm test           # jest (28 testes)
 npm run typecheck  # tsc --noEmit, TypeScript estrito
 ```
 
-- `__tests__/servidor-demo.test.ts`: o servidor demo responde como o challenge-SOA (401/403/404/409/422, envelope de erro, lockout após 5 falhas, rotação e revogação de token, ordenação e paginação, classificação D0 igual ao `MlService`).
+- `__tests__/servidor-demo.test.ts`: o servidor demo responde como o Sprint3-SOA (401/403/404/409/422, envelope de erro, lockout após 5 falhas, rotação e revogação de token, ordenação e paginação, classificação D0 igual ao `MlService`).
 - `__tests__/sessao-refresh.test.ts`: três requisições com token vencido geram **um** refresh; 401 no meio do uso renova e repete; logout no servidor derruba a sessão local.
 - `__tests__/formato.test.ts`: datas `LocalDate` sem erro de fuso, moeda, revisão estimada, cortes de prioridade.
 
