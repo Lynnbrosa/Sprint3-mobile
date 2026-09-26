@@ -1,0 +1,2606 @@
+[
+ {
+  "id": "3bd394fb-607d-5db2-ad25-1761145b3d0c",
+  "scoreRisco": 0.59,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "6ceb7439-c151-5c77-9b55-933e0cd66542",
+   "nome": "Felipe Pereira",
+   "cpf": "960.***.***-26",
+   "email": "f***@hotmail.com",
+   "telefone": "****5501",
+   "regiao": "ES",
+   "perfil": "esquecido",
+   "scoreRisco": 0.59
+  },
+  "veiculo": {
+   "id": "c2a4a891-db90-5ef0-a023-cd9139fd80b3",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "01BFD5D5D70EF565C",
+   "dataCompra": "2024-03-13",
+   "valorCompra": "93948.00",
+   "concessionariaId": "FORD-6674"
+  }
+ },
+ {
+  "id": "c7a17167-5f1d-5ff3-bd89-edbc1aeb3499",
+  "scoreRisco": 0.556,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 0,
+  "cliente": {
+   "id": "592c1cbc-8c29-553f-a136-234d24b0ca0c",
+   "nome": "Pedro Araújo",
+   "cpf": "001.***.***-33",
+   "email": "p***@uol.com.br",
+   "telefone": "****4864",
+   "regiao": "ES",
+   "perfil": "esquecido",
+   "scoreRisco": 0.556
+  },
+  "veiculo": {
+   "id": "4aa5a798-b0cd-59e3-ac3b-65dbbf7a5045",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "02903162425D31F8A",
+   "dataCompra": "2022-03-04",
+   "valorCompra": "108976.00",
+   "concessionariaId": "FORD-4270"
+  }
+ },
+ {
+  "id": "1d46116f-f938-5af7-91dc-b4e578aa1048",
+  "scoreRisco": 0.693,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "40c0d56a-29a3-5449-b711-86b0331e65f2",
+   "nome": "Patrícia Pinto",
+   "cpf": "910.***.***-31",
+   "email": "p***@hotmail.com",
+   "telefone": "****9181",
+   "regiao": "GO",
+   "perfil": "esquecido",
+   "scoreRisco": 0.693
+  },
+  "veiculo": {
+   "id": "b366863c-f4ef-5c94-b224-32ae34be022a",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "035B8BF94CA730350",
+   "dataCompra": "2023-11-13",
+   "valorCompra": "139501.00",
+   "concessionariaId": "FORD-5121"
+  }
+ },
+ {
+  "id": "1a00c364-fde9-5f3d-bcb5-13ab1ddd5420",
+  "scoreRisco": 0.827,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "9b9eb4e8-98f6-58df-8b73-3d13bb7eb927",
+   "nome": "Marcos Gomes",
+   "cpf": "806.***.***-41",
+   "email": "m***@gmail.com",
+   "telefone": "****0025",
+   "regiao": "SP",
+   "perfil": "abandono",
+   "scoreRisco": 0.827
+  },
+  "veiculo": {
+   "id": "1eb0f737-ba12-5bf7-96a3-860118aa2114",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "098759FBD2FA6C989",
+   "dataCompra": "2024-02-22",
+   "valorCompra": "106869.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "10ef3828-8995-5f3b-a8a6-387f120e4fe5",
+  "scoreRisco": 0.692,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 3,
+  "cliente": {
+   "id": "c1163749-c890-5f7f-b0db-05ef3b21b179",
+   "nome": "Maria Rocha",
+   "cpf": "852.***.***-27",
+   "email": "m***@uol.com.br",
+   "telefone": "****8159",
+   "regiao": "GO",
+   "perfil": "esquecido",
+   "scoreRisco": 0.692
+  },
+  "veiculo": {
+   "id": "ceeb8996-fab7-5195-914a-55a11579a880",
+   "modelo": "Transit",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "122CD5688671D865D",
+   "dataCompra": "2023-11-21",
+   "valorCompra": "133301.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "b9c89b53-8454-547d-ae15-69b1c62b94e0",
+  "scoreRisco": 0.998,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 4,
+  "cliente": {
+   "id": "180a47e9-f35e-5fd9-94d1-a518a9e9e190",
+   "nome": "Daniel Costa",
+   "cpf": "186.***.***-69",
+   "email": "d***@gmail.com",
+   "telefone": "****9740",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.998
+  },
+  "veiculo": {
+   "id": "210e3924-404a-548d-b81c-7ca05f10f6b8",
+   "modelo": "Maverick",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "138924DB07F558952",
+   "dataCompra": "2023-08-28",
+   "valorCompra": "110918.00",
+   "concessionariaId": "FORD-6686"
+  }
+ },
+ {
+  "id": "6c3ff63d-d4bb-58e5-bc8c-30c7a876427c",
+  "scoreRisco": 0.827,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 4,
+  "cliente": {
+   "id": "99b3ecf3-681d-54b6-a322-0b719a5741dc",
+   "nome": "Maria Silva",
+   "cpf": "560.***.***-52",
+   "email": "m***@outlook.com",
+   "telefone": "****6452",
+   "regiao": "SP",
+   "perfil": "abandono",
+   "scoreRisco": 0.827
+  },
+  "veiculo": {
+   "id": "d1f6b495-dd3c-5f8a-bdab-a7e6fc353c56",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "15D448EFDE8570FBE",
+   "dataCompra": "2023-03-31",
+   "valorCompra": "131383.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "256d1e26-29e0-59ff-9911-0f3b7f5780d4",
+  "scoreRisco": 0.75,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "d3c65d87-bbfc-53a8-a0e8-95ed0d5be98b",
+   "nome": "Thiago Campos",
+   "cpf": "579.***.***-85",
+   "email": "t***@yahoo.com.br",
+   "telefone": "****8513",
+   "regiao": "PE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.75
+  },
+  "veiculo": {
+   "id": "cd5051ea-b8bf-5087-86c6-4a99e063da2a",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "1724C9C5DF01FCF51",
+   "dataCompra": "2024-01-16",
+   "valorCompra": "100881.00",
+   "concessionariaId": "FORD-1285"
+  }
+ },
+ {
+  "id": "ad5f2d01-7dfa-5676-975d-5b468e552041",
+  "scoreRisco": 0.897,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "3ed8a21d-5113-519b-afdf-0c676030f631",
+   "nome": "Rafael Silva",
+   "cpf": "735.***.***-73",
+   "email": "r***@outlook.com",
+   "telefone": "****8652",
+   "regiao": "GO",
+   "perfil": "abandono",
+   "scoreRisco": 0.897
+  },
+  "veiculo": {
+   "id": "1e5be632-4199-5938-9424-c3bfb1581197",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "17EE52CBBAA75BCA3",
+   "dataCompra": "2022-03-22",
+   "valorCompra": "125383.00",
+   "concessionariaId": "FORD-4272"
+  }
+ },
+ {
+  "id": "84e29730-9aa2-57bb-a011-7e1be8e68525",
+  "scoreRisco": 0.557,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 6,
+  "cliente": {
+   "id": "74f94ed1-cf68-551a-a801-2654098d58e8",
+   "nome": "Fernando Ribeiro",
+   "cpf": "583.***.***-72",
+   "email": "f***@gmail.com",
+   "telefone": "****0210",
+   "regiao": "DF",
+   "perfil": "esquecido",
+   "scoreRisco": 0.557
+  },
+  "veiculo": {
+   "id": "0668b44e-1bfe-5c2f-bdad-da5a3272dc28",
+   "modelo": "Ka",
+   "versao": "Padrão",
+   "ano": 2021,
+   "vin": "18D797525D76816E0",
+   "dataCompra": "2021-01-28",
+   "valorCompra": "121516.00",
+   "concessionariaId": "FORD-2003"
+  }
+ },
+ {
+  "id": "43d2cfb7-caeb-5e8f-8294-40373f180f9d",
+  "scoreRisco": 0.726,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 7,
+  "cliente": {
+   "id": "8b520062-f375-5984-a735-2fdd21459e1d",
+   "nome": "Daniel Cardoso",
+   "cpf": "524.***.***-82",
+   "email": "d***@gmail.com",
+   "telefone": "****3055",
+   "regiao": "RJ",
+   "perfil": "esquecido",
+   "scoreRisco": 0.726
+  },
+  "veiculo": {
+   "id": "798f52cc-8890-507e-b330-6cff3e0d2e30",
+   "modelo": "Maverick",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "19B9BED262B840F4D",
+   "dataCompra": "2023-04-14",
+   "valorCompra": "105325.00",
+   "concessionariaId": "FORD-2152"
+  }
+ },
+ {
+  "id": "ea3c7693-82de-563e-8677-537a8bfaf906",
+  "scoreRisco": 0.686,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 3,
+  "cliente": {
+   "id": "99d90213-c97b-558a-a4c9-5118f7423f5f",
+   "nome": "Patrícia Ribeiro",
+   "cpf": "911.***.***-59",
+   "email": "p***@outlook.com",
+   "telefone": "****5327",
+   "regiao": "ES",
+   "perfil": "esquecido",
+   "scoreRisco": 0.686
+  },
+  "veiculo": {
+   "id": "d3ab41e1-341e-55ee-9d21-5e0f50c0ce4d",
+   "modelo": "Transit",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "1CC1D7FD6ACA2D8E2",
+   "dataCompra": "2024-01-30",
+   "valorCompra": "85808.00",
+   "concessionariaId": "FORD-1105"
+  }
+ },
+ {
+  "id": "dc4d477a-3437-5db9-bf75-67090a5be1dd",
+  "scoreRisco": 0.897,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "085efddb-d0d1-56e8-8c2f-5f23ac1c7afe",
+   "nome": "Rafael Cardoso",
+   "cpf": "707.***.***-94",
+   "email": "r***@uol.com.br",
+   "telefone": "****5059",
+   "regiao": "GO",
+   "perfil": "abandono",
+   "scoreRisco": 0.897
+  },
+  "veiculo": {
+   "id": "8da1e230-e7d3-554c-a123-d0f30a69c29a",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "214E0324F9DFE72CE",
+   "dataCompra": "2023-11-07",
+   "valorCompra": "136372.00",
+   "concessionariaId": "FORD-4272"
+  }
+ },
+ {
+  "id": "20849135-59b7-5307-a51e-ffeae2433e4c",
+  "scoreRisco": 0.827,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 6,
+  "cliente": {
+   "id": "3c6777bb-c118-5b81-8328-bfec1b9dfa4f",
+   "nome": "João Moreira",
+   "cpf": "639.***.***-23",
+   "email": "j***@gmail.com",
+   "telefone": "****4430",
+   "regiao": "SP",
+   "perfil": "abandono",
+   "scoreRisco": 0.827
+  },
+  "veiculo": {
+   "id": "62830783-de3d-5a97-95b4-6dcdcf04c3c0",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "227895E3036C67E51",
+   "dataCompra": "2023-06-29",
+   "valorCompra": "132499.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "5b8b4f73-c3d8-5acd-ab5c-cc984cc77727",
+  "scoreRisco": 0.783,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 7,
+  "cliente": {
+   "id": "e43f658b-e43f-5b58-aae8-80a91f1f80f3",
+   "nome": "Thiago Souza",
+   "cpf": "284.***.***-94",
+   "email": "t***@yahoo.com.br",
+   "telefone": "****4903",
+   "regiao": "GO",
+   "perfil": "abandono",
+   "scoreRisco": 0.783
+  },
+  "veiculo": {
+   "id": "927d9fd5-bd12-5396-8efd-5490932e2812",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "22A9C8A43D49A3024",
+   "dataCompra": "2024-08-19",
+   "valorCompra": "136397.00",
+   "concessionariaId": "FORD-4194"
+  }
+ },
+ {
+  "id": "1c4a941d-3ef0-5ea2-9ba0-c88c28bf1974",
+  "scoreRisco": 0.827,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "62592c9d-5d24-54e5-8222-901b01133e57",
+   "nome": "Eduardo Cavalcanti",
+   "cpf": "007.***.***-33",
+   "email": "e***@gmail.com",
+   "telefone": "****6775",
+   "regiao": "SP",
+   "perfil": "abandono",
+   "scoreRisco": 0.827
+  },
+  "veiculo": {
+   "id": "41f8041f-0cbb-550b-a45e-8d781d3c264b",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "26308277B74327F10",
+   "dataCompra": "2023-08-07",
+   "valorCompra": "117493.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "738a78d0-bd76-5252-9d75-94b01cdee99f",
+  "scoreRisco": 0.994,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "b51dee9e-6b1a-5829-b3b4-a8203bc72492",
+   "nome": "Thiago Lima",
+   "cpf": "676.***.***-45",
+   "email": "t***@gmail.com",
+   "telefone": "****3350",
+   "regiao": "PE",
+   "perfil": "abandono",
+   "scoreRisco": 0.994
+  },
+  "veiculo": {
+   "id": "c08b890a-b27d-5aa6-8816-8617b4a31e2f",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "27868B8274B2E411B",
+   "dataCompra": "2022-04-14",
+   "valorCompra": "142018.00",
+   "concessionariaId": "FORD-3196"
+  }
+ },
+ {
+  "id": "bfbd7ccc-8bab-5079-a7d2-dc160180b8a2",
+  "scoreRisco": 0.648,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "754b01c4-a036-56d1-a61a-19efa8cf5a24",
+   "nome": "Cláudia Costa",
+   "cpf": "751.***.***-69",
+   "email": "c***@hotmail.com",
+   "telefone": "****6166",
+   "regiao": "ES",
+   "perfil": "esquecido",
+   "scoreRisco": 0.648
+  },
+  "veiculo": {
+   "id": "a97d44de-40ac-56af-9335-c871e1abe92c",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "2AA43568F3DFF6B64",
+   "dataCompra": "2021-04-29",
+   "valorCompra": "138054.00",
+   "concessionariaId": "FORD-6137"
+  }
+ },
+ {
+  "id": "5311da0e-b229-55dd-83a5-eb8398b996fc",
+  "scoreRisco": 0.724,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "011bbab7-0969-5b70-a347-43dd95131bce",
+   "nome": "Cláudia Cavalcanti",
+   "cpf": "855.***.***-49",
+   "email": "c***@yahoo.com.br",
+   "telefone": "****7183",
+   "regiao": "MG",
+   "perfil": "esquecido",
+   "scoreRisco": 0.724
+  },
+  "veiculo": {
+   "id": "a5716bca-2a92-58df-9ff2-f7131b49f5b6",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "2D176E0F6B062F584",
+   "dataCompra": "2021-12-02",
+   "valorCompra": "133195.00",
+   "concessionariaId": "FORD-4269"
+  }
+ },
+ {
+  "id": "83319501-d0fc-5510-9765-7c1838ab5974",
+  "scoreRisco": 0.742,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "10aa5918-e5f7-5085-adb4-26156a8782a0",
+   "nome": "Patrícia Rodrigues",
+   "cpf": "257.***.***-72",
+   "email": "p***@uol.com.br",
+   "telefone": "****0819",
+   "regiao": "PE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.742
+  },
+  "veiculo": {
+   "id": "be173981-f6e4-57e8-87e2-d04c7d1c6ae8",
+   "modelo": "Bronco Sport",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "2E0698A8C1C5F1B43",
+   "dataCompra": "2023-05-05",
+   "valorCompra": "144216.00",
+   "concessionariaId": "FORD-1285"
+  }
+ },
+ {
+  "id": "3fdea46f-764f-50c2-a95a-fb32fe6356b9",
+  "scoreRisco": 0.596,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "e5efc580-966e-504a-8564-85f4c7aea9b5",
+   "nome": "Eduardo Nascimento",
+   "cpf": "658.***.***-57",
+   "email": "e***@outlook.com",
+   "telefone": "****9517",
+   "regiao": "BA",
+   "perfil": "esquecido",
+   "scoreRisco": 0.596
+  },
+  "veiculo": {
+   "id": "86a0d82c-7f69-5fea-b95a-38d282c301b4",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "31B75807CA8FE3AD8",
+   "dataCompra": "2022-09-23",
+   "valorCompra": "85123.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "9caa902c-1089-5e41-938a-96d9554eb70e",
+  "scoreRisco": 0.896,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 10,
+  "cliente": {
+   "id": "e753a0be-c705-570a-95c0-c9d808a13a99",
+   "nome": "Carolina Moreira",
+   "cpf": "094.***.***-38",
+   "email": "c***@hotmail.com",
+   "telefone": "****1326",
+   "regiao": "SC",
+   "perfil": "abandono",
+   "scoreRisco": 0.896
+  },
+  "veiculo": {
+   "id": "329e8f09-d53d-54ac-bbe5-61bd93240b8b",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "34AC392604A963178",
+   "dataCompra": "2024-03-30",
+   "valorCompra": "131084.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "3810bd76-6413-5557-9bab-95f4a2c004bb",
+  "scoreRisco": 0.996,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "eb68e9a0-acc1-5b06-bc75-1bf4b67d2a9c",
+   "nome": "Lucas Pinto",
+   "cpf": "612.***.***-90",
+   "email": "l***@gmail.com",
+   "telefone": "****8210",
+   "regiao": "CE",
+   "perfil": "abandono",
+   "scoreRisco": 0.996
+  },
+  "veiculo": {
+   "id": "49e82a85-f102-523f-98f0-8a73f61d05d2",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "3824A38F0BC5856CE",
+   "dataCompra": "2023-10-19",
+   "valorCompra": "125027.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "a58c38b7-04e9-5552-9d07-8db1a67e1c6a",
+  "scoreRisco": 0.661,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "3595dea4-533e-5f0d-a996-bf5c277acf3c",
+   "nome": "Luiza Martins",
+   "cpf": "222.***.***-95",
+   "email": "l***@uol.com.br",
+   "telefone": "****3159",
+   "regiao": "SP",
+   "perfil": "esquecido",
+   "scoreRisco": 0.661
+  },
+  "veiculo": {
+   "id": "275ef618-3df0-5c52-be95-c17a06f13ec3",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "39D2B691F44FF0453",
+   "dataCompra": "2023-12-06",
+   "valorCompra": "122367.00",
+   "concessionariaId": "FORD-6689"
+  }
+ },
+ {
+  "id": "10454ef2-e8b9-5f33-8810-f935ebb3b756",
+  "scoreRisco": 0.95,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "e99bd2a8-e399-503b-82fc-115ed3645aa0",
+   "nome": "André Lima",
+   "cpf": "939.***.***-54",
+   "email": "a***@gmail.com",
+   "telefone": "****7235",
+   "regiao": "CE",
+   "perfil": "abandono",
+   "scoreRisco": 0.95
+  },
+  "veiculo": {
+   "id": "e37a9763-2995-5eca-ab98-aeb1ef05a4a1",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "3BB11928CB2644E4F",
+   "dataCompra": "2023-06-12",
+   "valorCompra": "102596.00",
+   "concessionariaId": "FORD-1036"
+  }
+ },
+ {
+  "id": "23d1e962-8f9e-59b9-8916-c7c8fb50d8e4",
+  "scoreRisco": 0.897,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "a2c58045-6a56-5f0d-abcf-4fed8dabca2a",
+   "nome": "Luiza Pinto",
+   "cpf": "198.***.***-44",
+   "email": "l***@hotmail.com",
+   "telefone": "****1176",
+   "regiao": "GO",
+   "perfil": "abandono",
+   "scoreRisco": 0.897
+  },
+  "veiculo": {
+   "id": "70edad9a-d561-5e82-be10-1a4413a77754",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "40D7481BF01B330D9",
+   "dataCompra": "2023-07-25",
+   "valorCompra": "104766.00",
+   "concessionariaId": "FORD-4272"
+  }
+ },
+ {
+  "id": "530b3cb4-98e9-5fc9-a9d6-dcea2690f0ae",
+  "scoreRisco": 0.635,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "0f3e9e10-150e-5f50-b817-348f430facf2",
+   "nome": "Daniel Carvalho",
+   "cpf": "924.***.***-08",
+   "email": "d***@uol.com.br",
+   "telefone": "****2869",
+   "regiao": "CE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.635
+  },
+  "veiculo": {
+   "id": "11043bcf-6acb-52cd-8534-8c19d908d522",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "42AC965DE2D91BC2D",
+   "dataCompra": "2023-11-30",
+   "valorCompra": "92843.00",
+   "concessionariaId": "FORD-5062"
+  }
+ },
+ {
+  "id": "028e7ecf-b28a-52d3-8cb3-baca1fd4a83b",
+  "scoreRisco": 0.783,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "240bce94-1eeb-5a1a-a14f-5ca1f7f40534",
+   "nome": "Fernando Campos",
+   "cpf": "432.***.***-43",
+   "email": "f***@gmail.com",
+   "telefone": "****2665",
+   "regiao": "PR",
+   "perfil": "abandono",
+   "scoreRisco": 0.783
+  },
+  "veiculo": {
+   "id": "f4a8c5ef-94d6-5740-9dee-03dd06093c2b",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "48C3C9280EBED413F",
+   "dataCompra": "2023-08-17",
+   "valorCompra": "125624.00",
+   "concessionariaId": "FORD-4268"
+  }
+ },
+ {
+  "id": "9e3cde8d-6ae8-5848-85da-15447bd6765f",
+  "scoreRisco": 0.791,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "cfaf5028-60f3-5351-b1cb-58f21747a705",
+   "nome": "Maria Barbosa",
+   "cpf": "682.***.***-58",
+   "email": "m***@gmail.com",
+   "telefone": "****0005",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.791
+  },
+  "veiculo": {
+   "id": "67f57403-2bac-5293-bff9-fcd42aef3072",
+   "modelo": "Ka",
+   "versao": "Padrão",
+   "ano": 2021,
+   "vin": "495E7F717BFC1A52B",
+   "dataCompra": "2021-05-28",
+   "valorCompra": "139092.00",
+   "concessionariaId": "FORD-2003"
+  }
+ },
+ {
+  "id": "0cd67ea6-7646-56a1-b7d0-aae7b1097b3c",
+  "scoreRisco": 0.744,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "dc215196-47a5-53be-b50f-4ddd9be7e3a7",
+   "nome": "Vanessa Silva",
+   "cpf": "652.***.***-72",
+   "email": "v***@gmail.com",
+   "telefone": "****2215",
+   "regiao": "PR",
+   "perfil": "esquecido",
+   "scoreRisco": 0.744
+  },
+  "veiculo": {
+   "id": "7c593430-045d-5d5a-bdaf-43bb7fec69c5",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "4B2E563C152E765A7",
+   "dataCompra": "2024-11-06",
+   "valorCompra": "88726.00",
+   "concessionariaId": "FORD-5422"
+  }
+ },
+ {
+  "id": "b259e09c-c1fb-52e6-abbd-46dfe4d6d6fe",
+  "scoreRisco": 0.661,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "ef94ddf0-1984-5982-a703-c837400faafa",
+   "nome": "Patrícia Nascimento",
+   "cpf": "401.***.***-53",
+   "email": "p***@gmail.com",
+   "telefone": "****7045",
+   "regiao": "BA",
+   "perfil": "esquecido",
+   "scoreRisco": 0.661
+  },
+  "veiculo": {
+   "id": "271d8230-948b-5036-9af8-87a2b05e7d42",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "4E9F555C343D1A50E",
+   "dataCompra": "2022-12-05",
+   "valorCompra": "101794.00",
+   "concessionariaId": "FORD-4061"
+  }
+ },
+ {
+  "id": "387fc385-fae6-51f4-8417-a62fcacfae44",
+  "scoreRisco": 0.97,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 6,
+  "cliente": {
+   "id": "b839bf72-f878-5736-b897-d22702baa02f",
+   "nome": "Eduardo Pinto",
+   "cpf": "610.***.***-80",
+   "email": "e***@gmail.com",
+   "telefone": "****5710",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.97
+  },
+  "veiculo": {
+   "id": "0cd00784-3f2e-55cc-ac28-2639507bc1a5",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "4EFB573E6845A298C",
+   "dataCompra": "2024-12-10",
+   "valorCompra": "92183.00",
+   "concessionariaId": "FORD-5121"
+  }
+ },
+ {
+  "id": "f94ded84-a4c7-5f2c-bc87-c11d963d8b55",
+  "scoreRisco": 0.886,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "968f7d4d-bf3d-5ef0-8327-a2414f27064c",
+   "nome": "Fernando Rocha",
+   "cpf": "409.***.***-26",
+   "email": "f***@hotmail.com",
+   "telefone": "****1451",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.886
+  },
+  "veiculo": {
+   "id": "43ca4697-7cb1-5f07-bece-aa833f5a4024",
+   "modelo": "Ka",
+   "versao": "Padrão",
+   "ano": 2020,
+   "vin": "4F389C4B1A03050F1",
+   "dataCompra": "2020-03-04",
+   "valorCompra": "141298.00",
+   "concessionariaId": "FORD-6286"
+  }
+ },
+ {
+  "id": "30150b19-69fc-5fee-9ef3-64f2f2fd32d8",
+  "scoreRisco": 0.97,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 3,
+  "cliente": {
+   "id": "f776a732-4525-5ce3-a9ee-df28ac162cc6",
+   "nome": "Pedro Dias",
+   "cpf": "620.***.***-11",
+   "email": "p***@uol.com.br",
+   "telefone": "****4879",
+   "regiao": "PE",
+   "perfil": "abandono",
+   "scoreRisco": 0.97
+  },
+  "veiculo": {
+   "id": "bcea860b-8436-51e9-ab70-0ea0cf7fd44c",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "5A0128A6ABFA62732",
+   "dataCompra": "2022-07-12",
+   "valorCompra": "139657.00",
+   "concessionariaId": "FORD-1105"
+  }
+ },
+ {
+  "id": "66a80fd5-f6e3-596a-99e9-6b665993b6a6",
+  "scoreRisco": 0.724,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "3e03da67-86c1-5dbd-9d16-c2911f6fa1cf",
+   "nome": "Juliana Dias",
+   "cpf": "279.***.***-53",
+   "email": "j***@gmail.com",
+   "telefone": "****7350",
+   "regiao": "MG",
+   "perfil": "esquecido",
+   "scoreRisco": 0.724
+  },
+  "veiculo": {
+   "id": "408edb0d-5f4d-55b2-83ba-7532958957c1",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "5C0ED0C1BDDD18F1A",
+   "dataCompra": "2024-10-10",
+   "valorCompra": "81390.00",
+   "concessionariaId": "FORD-4269"
+  }
+ },
+ {
+  "id": "e2903544-a8b2-5c13-80c2-b3f28570060b",
+  "scoreRisco": 0.783,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 1,
+  "cliente": {
+   "id": "9c37947b-49c7-5f21-907d-664186f3c5c1",
+   "nome": "Larissa Costa",
+   "cpf": "536.***.***-87",
+   "email": "l***@yahoo.com.br",
+   "telefone": "****4313",
+   "regiao": "GO",
+   "perfil": "abandono",
+   "scoreRisco": 0.783
+  },
+  "veiculo": {
+   "id": "70e6e8e7-2506-5018-8e3f-6fe6e8d000b2",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "5E3DB3A33C2966B21",
+   "dataCompra": "2024-10-03",
+   "valorCompra": "117161.00",
+   "concessionariaId": "FORD-4194"
+  }
+ },
+ {
+  "id": "7cbcf11a-9d2f-5fe0-ba58-02f0cd665d8d",
+  "scoreRisco": 0.898,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "67e9a821-6834-5edc-b584-1aa2391d3039",
+   "nome": "Marcos Santos",
+   "cpf": "739.***.***-75",
+   "email": "m***@yahoo.com.br",
+   "telefone": "****5808",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.898
+  },
+  "veiculo": {
+   "id": "b47042d4-8169-5c7c-bbfa-713e4f014f8a",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "60803A423CD20FED0",
+   "dataCompra": "2023-04-04",
+   "valorCompra": "95966.00",
+   "concessionariaId": "FORD-5062"
+  }
+ },
+ {
+  "id": "8c03344f-ebd4-571e-a971-2aa3d8f52849",
+  "scoreRisco": 0.577,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 10,
+  "cliente": {
+   "id": "b6a0ebc6-1ecf-5379-9881-0f012ef0da37",
+   "nome": "Eduardo Cardoso",
+   "cpf": "577.***.***-82",
+   "email": "e***@gmail.com",
+   "telefone": "****9510",
+   "regiao": "DF",
+   "perfil": "esquecido",
+   "scoreRisco": 0.577
+  },
+  "veiculo": {
+   "id": "03cc96ce-393e-5389-9798-f465188c0452",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "6421CBC0ECC8EAE0B",
+   "dataCompra": "2022-02-24",
+   "valorCompra": "106721.00",
+   "concessionariaId": "FORD-6137"
+  }
+ },
+ {
+  "id": "70ff9383-ead6-5a7b-b5d3-1f84a83b9245",
+  "scoreRisco": 0.695,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 7,
+  "cliente": {
+   "id": "2e2e3c7a-c758-518c-a935-174c726edf6d",
+   "nome": "Marcos Silva",
+   "cpf": "865.***.***-29",
+   "email": "m***@gmail.com",
+   "telefone": "****6835",
+   "regiao": "DF",
+   "perfil": "esquecido",
+   "scoreRisco": 0.695
+  },
+  "veiculo": {
+   "id": "ed3bfd7b-5618-5ecf-96ca-f22d615864bb",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "650F2BEC31AE3C931",
+   "dataCompra": "2024-03-28",
+   "valorCompra": "125478.00",
+   "concessionariaId": "FORD-3637"
+  }
+ },
+ {
+  "id": "9ffbdf35-19df-5245-a77b-0426d53adbba",
+  "scoreRisco": 0.608,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 0,
+  "cliente": {
+   "id": "b5b3c0ae-77cc-549e-bb36-073338741967",
+   "nome": "Letícia Costa",
+   "cpf": "528.***.***-18",
+   "email": "l***@gmail.com",
+   "telefone": "****4820",
+   "regiao": "GO",
+   "perfil": "esquecido",
+   "scoreRisco": 0.608
+  },
+  "veiculo": {
+   "id": "8027bcfd-f032-5cf2-86be-fe515bc7cc9f",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "698EBFCFC81090485",
+   "dataCompra": "2023-08-17",
+   "valorCompra": "85824.00",
+   "concessionariaId": "FORD-1036"
+  }
+ },
+ {
+  "id": "73865cc8-d5c0-54ad-ae44-6c85959a9bdf",
+  "scoreRisco": 0.742,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 4,
+  "cliente": {
+   "id": "ea69ac8c-cd4c-5502-aeb9-ee1a46964ab1",
+   "nome": "Eduardo Campos",
+   "cpf": "425.***.***-94",
+   "email": "e***@yahoo.com.br",
+   "telefone": "****0848",
+   "regiao": "PR",
+   "perfil": "esquecido",
+   "scoreRisco": 0.742
+  },
+  "veiculo": {
+   "id": "84f36d0c-6ae7-5f28-891d-97f196ebbe24",
+   "modelo": "F-150",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "6B71CD66CF7C73F05",
+   "dataCompra": "2024-03-28",
+   "valorCompra": "123587.00",
+   "concessionariaId": "FORD-5671"
+  }
+ },
+ {
+  "id": "ed100dc5-0a5d-5c0e-83b6-55009cd6371c",
+  "scoreRisco": 0.705,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "c7ac1790-0666-5343-825d-642fe9b973ad",
+   "nome": "Fernando Carvalho",
+   "cpf": "216.***.***-20",
+   "email": "f***@uol.com.br",
+   "telefone": "****4234",
+   "regiao": "CE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.705
+  },
+  "veiculo": {
+   "id": "053ca069-ea26-5f57-9142-48fa799d1f49",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "70C8050EBC07E5570",
+   "dataCompra": "2021-09-24",
+   "valorCompra": "95184.00",
+   "concessionariaId": "FORD-6137"
+  }
+ },
+ {
+  "id": "0ede6b6b-e55c-5af3-98bf-b7788a23371a",
+  "scoreRisco": 0.596,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 4,
+  "cliente": {
+   "id": "eb2aa3eb-d8f3-5234-af78-7151fcdcc849",
+   "nome": "Letícia Cavalcanti",
+   "cpf": "144.***.***-10",
+   "email": "l***@outlook.com",
+   "telefone": "****5352",
+   "regiao": "BA",
+   "perfil": "esquecido",
+   "scoreRisco": 0.596
+  },
+  "veiculo": {
+   "id": "b641076d-9663-5d57-a91b-33ab2757b778",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "7166EE83107834729",
+   "dataCompra": "2025-02-11",
+   "valorCompra": "139164.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "5873c5d3-b2e0-5707-9f12-f75a50ca394e",
+  "scoreRisco": 0.821,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "e48215ec-e6e5-5331-836c-bfa07b70b46c",
+   "nome": "Fernando Nascimento",
+   "cpf": "072.***.***-15",
+   "email": "f***@hotmail.com",
+   "telefone": "****7221",
+   "regiao": "ES",
+   "perfil": "abandono",
+   "scoreRisco": 0.821
+  },
+  "veiculo": {
+   "id": "13880ffb-7076-5b4c-9768-45a4ba65501c",
+   "modelo": "Transit",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "71D60A7DA475FE08C",
+   "dataCompra": "2024-04-30",
+   "valorCompra": "139447.00",
+   "concessionariaId": "FORD-5671"
+  }
+ },
+ {
+  "id": "8e549e30-c153-5fe7-933a-6b6fb56599d1",
+  "scoreRisco": 0.884,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 11,
+  "cliente": {
+   "id": "0b7174d6-14fb-5fd0-8c53-91000f673538",
+   "nome": "Maria Ribeiro",
+   "cpf": "653.***.***-29",
+   "email": "m***@uol.com.br",
+   "telefone": "****6139",
+   "regiao": "MG",
+   "perfil": "abandono",
+   "scoreRisco": 0.884
+  },
+  "veiculo": {
+   "id": "6a284ea0-4077-5925-af9f-ef1428667be0",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "7388F558F82FD36F1",
+   "dataCompra": "2023-12-28",
+   "valorCompra": "81638.00",
+   "concessionariaId": "FORD-4146"
+  }
+ },
+ {
+  "id": "67afaaeb-46a6-5081-8196-ab36e64017ec",
+  "scoreRisco": 0.603,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 4,
+  "cliente": {
+   "id": "d2d2b681-cfbd-5d59-82b7-760abda13fab",
+   "nome": "Ricardo Gomes",
+   "cpf": "309.***.***-16",
+   "email": "r***@uol.com.br",
+   "telefone": "****8384",
+   "regiao": "CE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.603
+  },
+  "veiculo": {
+   "id": "f5c3f3e3-de9f-5245-8610-b9b56ca83333",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "74E0D4F34708BA902",
+   "dataCompra": "2024-12-05",
+   "valorCompra": "80003.00",
+   "concessionariaId": "FORD-5673"
+  }
+ },
+ {
+  "id": "52bdfda1-0aec-598d-9ade-1e12bdaedfc3",
+  "scoreRisco": 0.738,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "0f18f014-7f33-529b-a21b-e5b5a75feafa",
+   "nome": "João Pinto",
+   "cpf": "707.***.***-43",
+   "email": "j***@hotmail.com",
+   "telefone": "****3821",
+   "regiao": "BA",
+   "perfil": "esquecido",
+   "scoreRisco": 0.738
+  },
+  "veiculo": {
+   "id": "9d30c1f9-0455-5eca-9195-3e6955c9bcbd",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "77CBB3D331B270070",
+   "dataCompra": "2023-10-19",
+   "valorCompra": "138912.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "91de9aba-c0ec-5b2f-b749-3ecfcd7eec70",
+  "scoreRisco": 0.901,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 0,
+  "cliente": {
+   "id": "6055baae-e3a3-576f-86bd-954501409151",
+   "nome": "Carlos Ferreira",
+   "cpf": "067.***.***-45",
+   "email": "c***@uol.com.br",
+   "telefone": "****8484",
+   "regiao": "PE",
+   "perfil": "abandono",
+   "scoreRisco": 0.901
+  },
+  "veiculo": {
+   "id": "cdf6fda6-4553-5e71-a545-f8b73e215807",
+   "modelo": "F-150",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "798238F94DCC8968E",
+   "dataCompra": "2023-09-15",
+   "valorCompra": "90553.00",
+   "concessionariaId": "FORD-5671"
+  }
+ },
+ {
+  "id": "85f6bc34-1f68-59ce-9a44-8b10eef53914",
+  "scoreRisco": 0.701,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "48505a96-a899-5da5-83ea-496d7cfed8b0",
+   "nome": "Larissa Castro",
+   "cpf": "684.***.***-98",
+   "email": "l***@outlook.com",
+   "telefone": "****6057",
+   "regiao": "PR",
+   "perfil": "esquecido",
+   "scoreRisco": 0.701
+  },
+  "veiculo": {
+   "id": "9382d3b4-839a-507e-9b0f-83dbf1de50da",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "7A959025F78F4C658",
+   "dataCompra": "2023-10-05",
+   "valorCompra": "143461.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "73bbdd6f-4a4e-5e09-ac5b-211f21492de4",
+  "scoreRisco": 0.802,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "126e3f2c-8c7f-5f37-951a-5508e60b0566",
+   "nome": "Camila Dias",
+   "cpf": "732.***.***-79",
+   "email": "c***@hotmail.com",
+   "telefone": "****3641",
+   "regiao": "SP",
+   "perfil": "abandono",
+   "scoreRisco": 0.802
+  },
+  "veiculo": {
+   "id": "f3bae325-7be2-513d-9598-96b891611cc3",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "8092DCEB1B0FE6FA3",
+   "dataCompra": "2023-06-12",
+   "valorCompra": "92325.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "5f3eab96-cdb4-57ae-9581-cd8051dbc5e9",
+  "scoreRisco": 0.681,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "780736c5-f9cc-5d8e-b114-24df0ecefe80",
+   "nome": "Thiago Cardoso",
+   "cpf": "756.***.***-62",
+   "email": "t***@uol.com.br",
+   "telefone": "****0804",
+   "regiao": "SC",
+   "perfil": "esquecido",
+   "scoreRisco": 0.681
+  },
+  "veiculo": {
+   "id": "6c9219d8-71b0-5c99-8e15-26e31dd14135",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2020,
+   "vin": "825BC2654B261813C",
+   "dataCompra": "2020-06-19",
+   "valorCompra": "98623.00",
+   "concessionariaId": "FORD-6137"
+  }
+ },
+ {
+  "id": "f8f975cb-bbe7-5d18-aba5-6f38790c98f7",
+  "scoreRisco": 0.996,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "a85adfce-d626-5821-9308-df25c8f79526",
+   "nome": "Fernando Rodrigues",
+   "cpf": "636.***.***-74",
+   "email": "f***@gmail.com",
+   "telefone": "****7940",
+   "regiao": "CE",
+   "perfil": "abandono",
+   "scoreRisco": 0.996
+  },
+  "veiculo": {
+   "id": "7cb8f25f-8347-5353-80d8-a71551950edd",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "8558E362AC3977AF6",
+   "dataCompra": "2023-07-20",
+   "valorCompra": "142695.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "6fb738f1-b53e-57ab-bb3e-54cf4b7127cb",
+  "scoreRisco": 0.937,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "47370c0c-4637-5429-91ce-fd345eb2a88a",
+   "nome": "Juliana Pereira",
+   "cpf": "208.***.***-22",
+   "email": "j***@yahoo.com.br",
+   "telefone": "****5613",
+   "regiao": "PR",
+   "perfil": "abandono",
+   "scoreRisco": 0.937
+  },
+  "veiculo": {
+   "id": "236b743c-a44a-5919-a2da-5f4e1b55cf23",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2021,
+   "vin": "85CA66D2C4F1FD6D6",
+   "dataCompra": "2020-12-29",
+   "valorCompra": "94923.00",
+   "concessionariaId": "FORD-4122"
+  }
+ },
+ {
+  "id": "049f601e-c3b8-5ee0-9f27-1b2becf2d9d6",
+  "scoreRisco": 0.596,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 1,
+  "cliente": {
+   "id": "a867bf2e-d75c-548d-8d71-5a4f80d1aef2",
+   "nome": "Pedro Ribeiro",
+   "cpf": "089.***.***-18",
+   "email": "p***@uol.com.br",
+   "telefone": "****6209",
+   "regiao": "PR",
+   "perfil": "esquecido",
+   "scoreRisco": 0.596
+  },
+  "veiculo": {
+   "id": "855751c9-5fd2-5257-8fec-646f1ffb6486",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2021,
+   "vin": "93C6C7E8FDA52FEC3",
+   "dataCompra": "2020-12-07",
+   "valorCompra": "86521.00",
+   "concessionariaId": "FORD-6137"
+  }
+ },
+ {
+  "id": "b35e0c0c-6801-55c7-ae9c-ec9b0415dd2b",
+  "scoreRisco": 0.614,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "7ab22931-84a0-5b98-b68a-21ce63b58f08",
+   "nome": "Thiago Nascimento",
+   "cpf": "037.***.***-47",
+   "email": "t***@uol.com.br",
+   "telefone": "****3309",
+   "regiao": "SC",
+   "perfil": "esquecido",
+   "scoreRisco": 0.614
+  },
+  "veiculo": {
+   "id": "eada3b80-9d7c-584e-8998-165b486ce027",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "989D938431E4C9BA6",
+   "dataCompra": "2022-04-13",
+   "valorCompra": "104685.00",
+   "concessionariaId": "FORD-6286"
+  }
+ },
+ {
+  "id": "36f84327-f25b-55f7-b7c1-0d39cf07499b",
+  "scoreRisco": 0.934,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "2e0639cb-3b38-53df-90c6-2aa5caa54472",
+   "nome": "Fernanda Campos",
+   "cpf": "730.***.***-28",
+   "email": "f***@outlook.com",
+   "telefone": "****0557",
+   "regiao": "SC",
+   "perfil": "abandono",
+   "scoreRisco": 0.934
+  },
+  "veiculo": {
+   "id": "cb32a08e-cf63-595c-960f-da9f5e8560b0",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "992254E47216E3351",
+   "dataCompra": "2024-05-20",
+   "valorCompra": "108519.00",
+   "concessionariaId": "FORD-6614"
+  }
+ },
+ {
+  "id": "de4884b7-3942-5887-a40c-fa7bb293c23e",
+  "scoreRisco": 0.608,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 1,
+  "cliente": {
+   "id": "5b749d25-c663-53a3-9a81-45c952f27c84",
+   "nome": "Carolina Mendes",
+   "cpf": "506.***.***-20",
+   "email": "c***@hotmail.com",
+   "telefone": "****1181",
+   "regiao": "SC",
+   "perfil": "esquecido",
+   "scoreRisco": 0.608
+  },
+  "veiculo": {
+   "id": "05e4373d-b24e-53a6-8475-1f1be2922cdd",
+   "modelo": "Transit",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "9A291A85147E66E9A",
+   "dataCompra": "2024-06-18",
+   "valorCompra": "111495.00",
+   "concessionariaId": "FORD-6689"
+  }
+ },
+ {
+  "id": "98c2e016-8dda-5072-a1b4-385569d0ef5f",
+  "scoreRisco": 0.808,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "95cee867-3d71-51bb-a3b0-dbc60832ab97",
+   "nome": "Fernando Castro",
+   "cpf": "923.***.***-80",
+   "email": "f***@yahoo.com.br",
+   "telefone": "****9188",
+   "regiao": "BA",
+   "perfil": "abandono",
+   "scoreRisco": 0.808
+  },
+  "veiculo": {
+   "id": "a65fbc41-6244-5f1d-b910-c525a6aa033d",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "9AB490F9A2E9F29C9",
+   "dataCompra": "2024-08-14",
+   "valorCompra": "124864.00",
+   "concessionariaId": "FORD-4272"
+  }
+ },
+ {
+  "id": "1c6b910d-d493-5129-a86d-78d6d2a90c8d",
+  "scoreRisco": 0.827,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "fadfe19f-dae7-557b-81d8-878abd7ac864",
+   "nome": "Camila Cardoso",
+   "cpf": "240.***.***-47",
+   "email": "c***@gmail.com",
+   "telefone": "****8205",
+   "regiao": "SP",
+   "perfil": "abandono",
+   "scoreRisco": 0.827
+  },
+  "veiculo": {
+   "id": "5e8dfd10-9f78-51fe-9a9a-6eade6c9c79d",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "A1E54F992858C687E",
+   "dataCompra": "2023-03-31",
+   "valorCompra": "108261.00",
+   "concessionariaId": "FORD-4159"
+  }
+ },
+ {
+  "id": "f12ac590-1e9c-5c06-a6bf-5e4dfc78705a",
+  "scoreRisco": 0.818,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "8436f114-d136-5f25-a95a-b1c69e8bb5d2",
+   "nome": "Pedro Nascimento",
+   "cpf": "684.***.***-26",
+   "email": "p***@hotmail.com",
+   "telefone": "****0421",
+   "regiao": "SC",
+   "perfil": "abandono",
+   "scoreRisco": 0.818
+  },
+  "veiculo": {
+   "id": "1fc1e1b6-ab80-5eb0-ab88-b6ab95204e02",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "A4170295D23F77325",
+   "dataCompra": "2023-11-24",
+   "valorCompra": "116688.00",
+   "concessionariaId": "FORD-6689"
+  }
+ },
+ {
+  "id": "76955b73-9310-536c-95fe-d6d8954ba338",
+  "scoreRisco": 0.996,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 10,
+  "cliente": {
+   "id": "fe026e3f-913c-5bb6-bb08-497122a0437a",
+   "nome": "André Lima",
+   "cpf": "695.***.***-86",
+   "email": "a***@yahoo.com.br",
+   "telefone": "****0598",
+   "regiao": "CE",
+   "perfil": "abandono",
+   "scoreRisco": 0.996
+  },
+  "veiculo": {
+   "id": "0e1ed4d5-e8d5-568f-bb80-8b83a4ad1a15",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "A6A877CDAA43238A5",
+   "dataCompra": "2023-09-14",
+   "valorCompra": "143992.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "7c8536b1-27de-5e05-94c0-375e20e7256e",
+  "scoreRisco": 0.924,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "df5924ae-3040-58e2-8ffa-f502320513bd",
+   "nome": "Daniel Cavalcanti",
+   "cpf": "077.***.***-35",
+   "email": "d***@yahoo.com.br",
+   "telefone": "****9758",
+   "regiao": "BA",
+   "perfil": "abandono",
+   "scoreRisco": 0.924
+  },
+  "veiculo": {
+   "id": "58d82ea2-1904-542d-b455-18f1f29aae0e",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2026,
+   "vin": "A86EB4FB1E17A5CDE",
+   "dataCompra": "2025-05-30",
+   "valorCompra": "108054.00",
+   "concessionariaId": "FORD-5307"
+  }
+ },
+ {
+  "id": "ba4e7698-49eb-5575-9668-f0f465c47a98",
+  "scoreRisco": 0.738,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "67e59e07-2b0c-5ec1-b305-6a618a7c35a8",
+   "nome": "Roberto Pinto",
+   "cpf": "929.***.***-97",
+   "email": "r***@hotmail.com",
+   "telefone": "****9641",
+   "regiao": "BA",
+   "perfil": "esquecido",
+   "scoreRisco": 0.738
+  },
+  "veiculo": {
+   "id": "57197c1f-5cf5-5714-8a1f-50a9f466a0fc",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "A966FEFD88B1E289E",
+   "dataCompra": "2021-08-27",
+   "valorCompra": "111516.00",
+   "concessionariaId": "FORD-5292"
+  }
+ },
+ {
+  "id": "3e896c11-5685-5615-9210-4c27307db030",
+  "scoreRisco": 0.592,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 10,
+  "cliente": {
+   "id": "1302cefa-aaa5-55e6-8c2b-b5e2b5477ce6",
+   "nome": "Vanessa Almeida",
+   "cpf": "245.***.***-59",
+   "email": "v***@uol.com.br",
+   "telefone": "****5894",
+   "regiao": "RJ",
+   "perfil": "esquecido",
+   "scoreRisco": 0.592
+  },
+  "veiculo": {
+   "id": "8cc5e69c-6a4a-5233-a85e-8a0a50ad6cc8",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "ACB9412950C6F7910",
+   "dataCompra": "2023-08-17",
+   "valorCompra": "114595.00",
+   "concessionariaId": "FORD-4615"
+  }
+ },
+ {
+  "id": "bf218e70-68dd-5ddf-bf79-ae33a80daebb",
+  "scoreRisco": 0.635,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 7,
+  "cliente": {
+   "id": "7f84f5ff-cee9-56e4-a3d1-2a12965606db",
+   "nome": "Bruno Ferreira",
+   "cpf": "372.***.***-08",
+   "email": "b***@uol.com.br",
+   "telefone": "****8279",
+   "regiao": "CE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.635
+  },
+  "veiculo": {
+   "id": "7bb69bac-5e88-5a7d-a057-ab97efe6166e",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "AFC39283C4357F8E1",
+   "dataCompra": "2023-10-19",
+   "valorCompra": "124928.00",
+   "concessionariaId": "FORD-5062"
+  }
+ },
+ {
+  "id": "a04e7312-f4b3-5dbd-942b-e9d3d51f59bd",
+  "scoreRisco": 0.681,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "2ab9e940-7c5c-5fc9-8fa0-3360b2df0c60",
+   "nome": "Felipe Santos",
+   "cpf": "854.***.***-41",
+   "email": "f***@hotmail.com",
+   "telefone": "****4021",
+   "regiao": "RJ",
+   "perfil": "esquecido",
+   "scoreRisco": 0.681
+  },
+  "veiculo": {
+   "id": "acb98d7b-67eb-547f-a230-b3e1c56fd9e9",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2021,
+   "vin": "B0F0B4C8C9627B0ED",
+   "dataCompra": "2020-09-30",
+   "valorCompra": "127867.00",
+   "concessionariaId": "FORD-1284"
+  }
+ },
+ {
+  "id": "a3cb6edd-7224-5e9c-932b-789d98a2e5ec",
+  "scoreRisco": 0.915,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "fdca7d00-c60b-5972-8356-01af20ea5268",
+   "nome": "Luiza Almeida",
+   "cpf": "066.***.***-86",
+   "email": "l***@outlook.com",
+   "telefone": "****1252",
+   "regiao": "GO",
+   "perfil": "abandono",
+   "scoreRisco": 0.915
+  },
+  "veiculo": {
+   "id": "b0e2edd1-8b80-512d-97fd-eb39e8dce636",
+   "modelo": "Territory",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "B2FE0050EA65B51FC",
+   "dataCompra": "2023-01-17",
+   "valorCompra": "87435.00",
+   "concessionariaId": "FORD-6178"
+  }
+ },
+ {
+  "id": "00ba1a20-d3ee-5251-80c8-bcbe46802cfe",
+  "scoreRisco": 0.78,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "615e9023-b843-5445-aaf6-d72843a0a71d",
+   "nome": "Luiza Mendes",
+   "cpf": "618.***.***-92",
+   "email": "l***@yahoo.com.br",
+   "telefone": "****7213",
+   "regiao": "BA",
+   "perfil": "abandono",
+   "scoreRisco": 0.78
+  },
+  "veiculo": {
+   "id": "627a418d-73d8-5fa3-9428-430554cded3a",
+   "modelo": "Maverick",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "B5FF0DE1BCD0636EA",
+   "dataCompra": "2024-07-26",
+   "valorCompra": "103858.00",
+   "concessionariaId": "FORD-5377"
+  }
+ },
+ {
+  "id": "a562c8a2-7806-5112-bec6-3b64cb809c0a",
+  "scoreRisco": 0.872,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 10,
+  "cliente": {
+   "id": "758accd3-f7dc-5fa1-9077-831b9038f7fa",
+   "nome": "Maria Santos",
+   "cpf": "093.***.***-09",
+   "email": "m***@outlook.com",
+   "telefone": "****7002",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.872
+  },
+  "veiculo": {
+   "id": "074c103b-206c-5667-a836-e8b4713f0c45",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "B73309C7E995ABCBD",
+   "dataCompra": "2023-09-14",
+   "valorCompra": "138458.00",
+   "concessionariaId": "FORD-5488"
+  }
+ },
+ {
+  "id": "ca28437f-428c-5616-bd15-1ed58b0b4de6",
+  "scoreRisco": 0.833,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "7e3fa3c0-652b-5a1d-a979-475174d2905b",
+   "nome": "Fernando Carvalho",
+   "cpf": "277.***.***-58",
+   "email": "f***@gmail.com",
+   "telefone": "****2785",
+   "regiao": "SC",
+   "perfil": "abandono",
+   "scoreRisco": 0.833
+  },
+  "veiculo": {
+   "id": "cb119dbe-c676-5ac4-9e84-1fc8cf44b056",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "B8C22BDF7E0ED534C",
+   "dataCompra": "2024-05-29",
+   "valorCompra": "121101.00",
+   "concessionariaId": "FORD-5500"
+  }
+ },
+ {
+  "id": "fce82a94-0109-58d0-9f1c-5d03fcfe296d",
+  "scoreRisco": 0.73,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "87728341-4c7d-558e-9a82-1bbb61a27f16",
+   "nome": "Ricardo Pereira",
+   "cpf": "250.***.***-30",
+   "email": "r***@outlook.com",
+   "telefone": "****3337",
+   "regiao": "CE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.73
+  },
+  "veiculo": {
+   "id": "7941b6c6-064d-55aa-b8e2-1aa74c607de5",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "BD9D770C1DB5A6623",
+   "dataCompra": "2023-11-24",
+   "valorCompra": "124351.00",
+   "concessionariaId": "FORD-5121"
+  }
+ },
+ {
+  "id": "e6a1742f-209e-5da1-9e9f-cf6b13b52e6f",
+  "scoreRisco": 0.709,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 6,
+  "cliente": {
+   "id": "c2260337-a160-5d4d-a57c-8f518626636b",
+   "nome": "Beatriz Rocha",
+   "cpf": "745.***.***-19",
+   "email": "b***@hotmail.com",
+   "telefone": "****8666",
+   "regiao": "CE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.709
+  },
+  "veiculo": {
+   "id": "b4c139ca-d4fc-5358-90f0-697365db143f",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2021,
+   "vin": "C35EDA66CC686D2B7",
+   "dataCompra": "2021-04-20",
+   "valorCompra": "89338.00",
+   "concessionariaId": "FORD-6689"
+  }
+ },
+ {
+  "id": "79257e9a-3c0d-5003-8a2d-f0a988c442db",
+  "scoreRisco": 0.701,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "5d48347d-1de5-56aa-bb9c-57bcf7b55335",
+   "nome": "Felipe Mendes",
+   "cpf": "365.***.***-82",
+   "email": "f***@yahoo.com.br",
+   "telefone": "****7488",
+   "regiao": "SP",
+   "perfil": "esquecido",
+   "scoreRisco": 0.701
+  },
+  "veiculo": {
+   "id": "c6e2731d-3e5a-5445-b19b-bb4c41f0325e",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "C54A2143EC9812331",
+   "dataCompra": "2022-04-13",
+   "valorCompra": "108605.00",
+   "concessionariaId": "FORD-5249"
+  }
+ },
+ {
+  "id": "64f9fb9a-d259-5f0c-a592-ecdf27293a83",
+  "scoreRisco": 0.56,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "566ccd5f-a903-5f6f-82e8-0c7ecf094522",
+   "nome": "Luiza Gomes",
+   "cpf": "523.***.***-76",
+   "email": "l***@outlook.com",
+   "telefone": "****6532",
+   "regiao": "RJ",
+   "perfil": "esquecido",
+   "scoreRisco": 0.56
+  },
+  "veiculo": {
+   "id": "5ff6ff40-0453-5465-a8e8-69da2f8bb901",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "C7380050891D67F1A",
+   "dataCompra": "2024-10-23",
+   "valorCompra": "130242.00",
+   "concessionariaId": "FORD-6610"
+  }
+ },
+ {
+  "id": "cafcb5ab-e24c-5b3a-ad83-0cb0800a45ed",
+  "scoreRisco": 0.588,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "3f389561-0a03-51fc-a8ce-ffa41eeca58c",
+   "nome": "Fernando Oliveira",
+   "cpf": "606.***.***-10",
+   "email": "f***@gmail.com",
+   "telefone": "****3725",
+   "regiao": "CE",
+   "perfil": "esquecido",
+   "scoreRisco": 0.588
+  },
+  "veiculo": {
+   "id": "6baec1e8-f523-5828-9a1f-f5a23cccc34c",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "C7FC0330664E16453",
+   "dataCompra": "2024-11-29",
+   "valorCompra": "93043.00",
+   "concessionariaId": "FORD-5422"
+  }
+ },
+ {
+  "id": "ed53446b-55cb-5773-84b8-1e1dabec7e29",
+  "scoreRisco": 0.853,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "a079dfdc-88a9-5fc1-ba4f-dd73eba87c55",
+   "nome": "Daniel Pinto",
+   "cpf": "441.***.***-17",
+   "email": "d***@yahoo.com.br",
+   "telefone": "****4438",
+   "regiao": "PR",
+   "perfil": "abandono",
+   "scoreRisco": 0.853
+  },
+  "veiculo": {
+   "id": "7ecb0c8e-c60b-5ea1-8d2a-cf15b4796fe0",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "C9BFBD5EFC4E4E779",
+   "dataCompra": "2023-12-11",
+   "valorCompra": "132294.00",
+   "concessionariaId": "FORD-4269"
+  }
+ },
+ {
+  "id": "7dc5ea8e-942a-556e-8204-d7c16e90c090",
+  "scoreRisco": 0.68,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 4,
+  "cliente": {
+   "id": "e6301350-c6da-5bda-adb0-d49a7571a387",
+   "nome": "Lucas Pinto",
+   "cpf": "690.***.***-73",
+   "email": "l***@uol.com.br",
+   "telefone": "****2944",
+   "regiao": "SC",
+   "perfil": "esquecido",
+   "scoreRisco": 0.68
+  },
+  "veiculo": {
+   "id": "db81382c-37ea-5fb1-a69e-7cfc44f6d3bc",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2020,
+   "vin": "CB07BA3B772AFD364",
+   "dataCompra": "2020-07-24",
+   "valorCompra": "106658.00",
+   "concessionariaId": "FORD-6124"
+  }
+ },
+ {
+  "id": "1594ddea-8990-55d7-b79e-24db91b62f92",
+  "scoreRisco": 0.734,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 2,
+  "cliente": {
+   "id": "35c11ced-4f7f-5f6a-8a28-f4019942ce9b",
+   "nome": "Mariana Cavalcanti",
+   "cpf": "834.***.***-24",
+   "email": "m***@gmail.com",
+   "telefone": "****8810",
+   "regiao": "PR",
+   "perfil": "esquecido",
+   "scoreRisco": 0.734
+  },
+  "veiculo": {
+   "id": "65a63393-ef42-5a1d-be02-fe9ee8c3e8d2",
+   "modelo": "Transit",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "CBEE6B8182C1EE485",
+   "dataCompra": "2023-10-19",
+   "valorCompra": "125923.00",
+   "concessionariaId": "FORD-6163"
+  }
+ },
+ {
+  "id": "e56635fd-c047-5d27-bf4e-04baa33dd36f",
+  "scoreRisco": 0.622,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "8056d292-2a49-5423-9653-8df9d8ef6e50",
+   "nome": "Carolina Silva",
+   "cpf": "120.***.***-25",
+   "email": "c***@outlook.com",
+   "telefone": "****9272",
+   "regiao": "BA",
+   "perfil": "esquecido",
+   "scoreRisco": 0.622
+  },
+  "veiculo": {
+   "id": "2cc389f2-7fbf-558b-b665-8d412b1d9ef5",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "CDF031A38897CD9E9",
+   "dataCompra": "2024-10-30",
+   "valorCompra": "109323.00",
+   "concessionariaId": "FORD-5094"
+  }
+ },
+ {
+  "id": "ad72b5c3-9899-5fd5-9923-b540664c9409",
+  "scoreRisco": 0.694,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 8,
+  "cliente": {
+   "id": "638cbec9-0d71-54dc-b641-aaa68000a076",
+   "nome": "André Almeida",
+   "cpf": "245.***.***-44",
+   "email": "a***@yahoo.com.br",
+   "telefone": "****0228",
+   "regiao": "MG",
+   "perfil": "esquecido",
+   "scoreRisco": 0.694
+  },
+  "veiculo": {
+   "id": "73e4a5db-2446-55fb-82b3-6c86ef967698",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "D1492A165ED372AEC",
+   "dataCompra": "2023-12-28",
+   "valorCompra": "120103.00",
+   "concessionariaId": "FORD-5673"
+  }
+ },
+ {
+  "id": "7e40b061-bcb5-53fd-b5c0-c204e7ad2f91",
+  "scoreRisco": 0.631,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 7,
+  "cliente": {
+   "id": "f6e7e6c2-5f12-58aa-93d5-22de05b32925",
+   "nome": "Rafael Oliveira",
+   "cpf": "986.***.***-15",
+   "email": "r***@hotmail.com",
+   "telefone": "****4151",
+   "regiao": "SC",
+   "perfil": "esquecido",
+   "scoreRisco": 0.631
+  },
+  "veiculo": {
+   "id": "3bdbaa13-747a-5083-9db4-4e1053049333",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "D35D4D608BE5A57C6",
+   "dataCompra": "2024-07-03",
+   "valorCompra": "105911.00",
+   "concessionariaId": "FORD-5094"
+  }
+ },
+ {
+  "id": "67bff280-0434-5eb1-9b11-48692d24aaab",
+  "scoreRisco": 0.646,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "25aed167-5f21-5f73-8348-b10303e8c4ee",
+   "nome": "João Pereira",
+   "cpf": "254.***.***-02",
+   "email": "j***@uol.com.br",
+   "telefone": "****8589",
+   "regiao": "MG",
+   "perfil": "esquecido",
+   "scoreRisco": 0.646
+  },
+  "veiculo": {
+   "id": "250237f0-2dd5-5ba2-945d-380ee87a63dd",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "D702C70D5AC4B8436",
+   "dataCompra": "2024-07-23",
+   "valorCompra": "114654.00",
+   "concessionariaId": "FORD-6686"
+  }
+ },
+ {
+  "id": "ba1297de-b64d-51fc-9ad8-3af24cd38a45",
+  "scoreRisco": 0.707,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 4,
+  "cliente": {
+   "id": "67fd9847-178e-5ad4-95ae-ea322b6b8bd9",
+   "nome": "Daniel Pereira",
+   "cpf": "340.***.***-94",
+   "email": "d***@yahoo.com.br",
+   "telefone": "****6828",
+   "regiao": "DF",
+   "perfil": "esquecido",
+   "scoreRisco": 0.707
+  },
+  "veiculo": {
+   "id": "619554be-84c9-5603-b8ea-4f9b8298cef8",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "DC6DD44A83DD42364",
+   "dataCompra": "2021-12-10",
+   "valorCompra": "137168.00",
+   "concessionariaId": "FORD-4122"
+  }
+ },
+ {
+  "id": "6763d6a8-3b1c-550b-8cf9-50a95d813bdb",
+  "scoreRisco": 0.613,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 7,
+  "cliente": {
+   "id": "7a1cc608-2553-5bb7-bb88-3c388f174e63",
+   "nome": "Ricardo Almeida",
+   "cpf": "075.***.***-51",
+   "email": "r***@hotmail.com",
+   "telefone": "****5991",
+   "regiao": "SC",
+   "perfil": "esquecido",
+   "scoreRisco": 0.613
+  },
+  "veiculo": {
+   "id": "aad332a9-fe88-50c2-a3bc-fd9e9e879d68",
+   "modelo": "Ecosport",
+   "versao": "Padrão",
+   "ano": 2020,
+   "vin": "DEC8848B11F464710",
+   "dataCompra": "2020-07-03",
+   "valorCompra": "84931.00",
+   "concessionariaId": "FORD-6286"
+  }
+ },
+ {
+  "id": "ddb523c2-88e3-5660-bef3-2b645088a081",
+  "scoreRisco": 0.936,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 1,
+  "cliente": {
+   "id": "32d383d7-14e2-5ef2-b012-b2f3863a2fb4",
+   "nome": "Carolina Gomes",
+   "cpf": "553.***.***-57",
+   "email": "c***@outlook.com",
+   "telefone": "****7377",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.936
+  },
+  "veiculo": {
+   "id": "36515fe0-4023-5f79-bfde-86e8e826f915",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2022,
+   "vin": "E1EF3059E9012C97E",
+   "dataCompra": "2021-08-27",
+   "valorCompra": "140045.00",
+   "concessionariaId": "FORD-4270"
+  }
+ },
+ {
+  "id": "ea7dd346-1797-58ca-a82d-e010fba4133a",
+  "scoreRisco": 0.61,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 0,
+  "cliente": {
+   "id": "b75f83eb-6e3f-56fd-8dae-6689e6358714",
+   "nome": "Daniel Castro",
+   "cpf": "994.***.***-75",
+   "email": "d***@uol.com.br",
+   "telefone": "****6504",
+   "regiao": "RS",
+   "perfil": "esquecido",
+   "scoreRisco": 0.61
+  },
+  "veiculo": {
+   "id": "9cf49662-9429-545d-afde-f916a122aa1a",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "E7A9E8A60E85BC579",
+   "dataCompra": "2024-08-29",
+   "valorCompra": "122363.00",
+   "concessionariaId": "FORD-4194"
+  }
+ },
+ {
+  "id": "c174a240-4c44-5415-91c8-dff67f9c75da",
+  "scoreRisco": 0.982,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 5,
+  "cliente": {
+   "id": "ba6b2a0e-f2e1-54d9-bc22-755e92480dfd",
+   "nome": "Carlos Dias",
+   "cpf": "760.***.***-88",
+   "email": "c***@outlook.com",
+   "telefone": "****5037",
+   "regiao": "ES",
+   "perfil": "abandono",
+   "scoreRisco": 0.982
+  },
+  "veiculo": {
+   "id": "c0ec5674-39c2-5f08-992e-b1d15efae9b1",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2021,
+   "vin": "ED2AE9064174C7842",
+   "dataCompra": "2021-01-28",
+   "valorCompra": "127383.00",
+   "concessionariaId": "FORD-6178"
+  }
+ },
+ {
+  "id": "48040cf1-6350-5e85-a238-54fe389d9f13",
+  "scoreRisco": 0.632,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 6,
+  "cliente": {
+   "id": "91d3c322-0d3d-5577-81f7-7f66dbd2553a",
+   "nome": "Roberto Barbosa",
+   "cpf": "107.***.***-48",
+   "email": "r***@outlook.com",
+   "telefone": "****5642",
+   "regiao": "BA",
+   "perfil": "esquecido",
+   "scoreRisco": 0.632
+  },
+  "veiculo": {
+   "id": "97d37be4-c7c3-5f20-819a-fd19ff42fe58",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "EDF937CA5CF612C84",
+   "dataCompra": "2024-08-19",
+   "valorCompra": "88718.00",
+   "concessionariaId": "FORD-5673"
+  }
+ },
+ {
+  "id": "5cea977f-ee66-54f5-b8e9-d6477a1ee7bb",
+  "scoreRisco": 0.586,
+  "prioridade": "media",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 10,
+  "cliente": {
+   "id": "30cb5d59-15af-5c40-977d-59d5803f2bf9",
+   "nome": "Roberto Alves",
+   "cpf": "516.***.***-93",
+   "email": "r***@outlook.com",
+   "telefone": "****8122",
+   "regiao": "DF",
+   "perfil": "esquecido",
+   "scoreRisco": 0.586
+  },
+  "veiculo": {
+   "id": "a4421ef2-f3f2-5787-b6c5-6b18eb031f61",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "F07B1167D3A829CD0",
+   "dataCompra": "2022-09-14",
+   "valorCompra": "91322.00",
+   "concessionariaId": "FORD-6178"
+  }
+ },
+ {
+  "id": "098391ea-268b-5b6a-85d7-ae4befc61e91",
+  "scoreRisco": 0.915,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 10,
+  "cliente": {
+   "id": "a67c5502-1d83-54b6-af6b-c43689d2252a",
+   "nome": "Beatriz Rodrigues",
+   "cpf": "436.***.***-30",
+   "email": "b***@yahoo.com.br",
+   "telefone": "****4918",
+   "regiao": "ES",
+   "perfil": "abandono",
+   "scoreRisco": 0.915
+  },
+  "veiculo": {
+   "id": "dc8260f4-79cd-5db7-9353-bca7ac9adfa3",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "F36CF95AC7400D34C",
+   "dataCompra": "2023-12-14",
+   "valorCompra": "114087.00",
+   "concessionariaId": "FORD-5288"
+  }
+ },
+ {
+  "id": "dcd1a6a1-afbe-59ed-a3c8-e644fcd236f3",
+  "scoreRisco": 0.923,
+  "prioridade": "critica",
+  "status": "aberto",
+  "scriptOferta": "Cliente de alto risco de evasão — oferta agressiva de primeira revisão com desconto + brinde institucional. Abordar antes da 1ª revisão.",
+  "diasAtras": 9,
+  "cliente": {
+   "id": "7d6a8104-783a-59a3-802d-0f82fa020f69",
+   "nome": "Maria Alves",
+   "cpf": "685.***.***-27",
+   "email": "m***@hotmail.com",
+   "telefone": "****6801",
+   "regiao": "RJ",
+   "perfil": "abandono",
+   "scoreRisco": 0.923
+  },
+  "veiculo": {
+   "id": "a8d8361d-b044-539c-bcdf-1a601f50d0fd",
+   "modelo": "Bronco Sport",
+   "versao": "Padrão",
+   "ano": 2023,
+   "vin": "F9110990F04DB2437",
+   "dataCompra": "2024-02-01",
+   "valorCompra": "84505.00",
+   "concessionariaId": "FORD-1023"
+  }
+ },
+ {
+  "id": "47c536f7-ac7d-5563-8327-c923cc19f2f1",
+  "scoreRisco": 0.73,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 7,
+  "cliente": {
+   "id": "01ca9de4-17bc-50dc-87d3-3746f3a3accd",
+   "nome": "Isabela Costa",
+   "cpf": "439.***.***-89",
+   "email": "i***@hotmail.com",
+   "telefone": "****1571",
+   "regiao": "SC",
+   "perfil": "esquecido",
+   "scoreRisco": 0.73
+  },
+  "veiculo": {
+   "id": "8ed4b1a6-bbb3-5b20-89d8-3ef596be3738",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2025,
+   "vin": "FB75137766F74B27A",
+   "dataCompra": "2024-08-16",
+   "valorCompra": "99746.00",
+   "concessionariaId": "FORD-6610"
+  }
+ },
+ {
+  "id": "e9f3de18-4401-5ff3-bbc1-1a65349e02d9",
+  "scoreRisco": 0.686,
+  "prioridade": "alta",
+  "status": "aberto",
+  "scriptOferta": "Cliente esquecido — lembrete proativo de manutenção + agendamento facilitado. Oferecer combo revisão + lavagem.",
+  "diasAtras": 0,
+  "cliente": {
+   "id": "808d7503-a2a3-55bc-960c-1d01f5b5844e",
+   "nome": "Roberto Oliveira",
+   "cpf": "188.***.***-46",
+   "email": "r***@yahoo.com.br",
+   "telefone": "****2988",
+   "regiao": "PR",
+   "perfil": "esquecido",
+   "scoreRisco": 0.686
+  },
+  "veiculo": {
+   "id": "865d0527-cd3f-574b-bf5a-8a5f27b93500",
+   "modelo": "Ranger",
+   "versao": "Padrão",
+   "ano": 2024,
+   "vin": "FDC6D70EB7ACB14F2",
+   "dataCompra": "2024-01-30",
+   "valorCompra": "120189.00",
+   "concessionariaId": "FORD-5489"
+  }
+ }
+]
